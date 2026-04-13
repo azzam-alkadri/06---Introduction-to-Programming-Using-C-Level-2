@@ -15,14 +15,18 @@ Level 2 in the C++ series is designed to bridge the gap between basic syntax and
 
 ---
 
+---
+
 ## 💡 Key Highlights
-🔹 **Total Control:** Shifting from guessing to knowing exactly how variables live and die in memory (Stack vs. Heap).
-🔹 **Pointers & References:** Gaining the confidence to manipulate memory addresses and use dynamic memory (`new`/`delete`) safely.
-🔹 **Functional Mastery:** Implementing advanced function concepts like Overloading, Recursion, and Header Libraries.
-🔹 **Persistence:** Learning to handle real-world data by reading, writing, and updating files.
-🔹 **Professional Tools:** Using Exception Handling and Date/Time libraries to build robust, production-ready applications.
+
+*   **Total Control:** Shifting from guessing to knowing exactly how variables live and die in memory (Stack vs. Heap).
+*   **Pointers & References:** Gaining the confidence to manipulate memory addresses and use dynamic memory (`new` / `delete`) safely.
+*   **Functional Mastery:** Implementing advanced function concepts like Overloading, Recursion, and Header Libraries.
+*   **Persistence:** Learning to handle real-world data by reading, writing, and updating files.
+*   **Professional Tools:** Using Exception Handling and Date/Time libraries to build robust, production-ready applications.
 
 ---
+
 
 ## 🛠 Technologies & Concepts
 *   **Language:** Advanced C++
